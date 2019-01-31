@@ -1,0 +1,1 @@
+// Any javascript you need for your theme can go here. Rename the file to be [your theme name].js
