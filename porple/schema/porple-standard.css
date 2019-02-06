@@ -1,0 +1,135 @@
+/* Under construction.*/
+
+body {
+    margin:40px auto;
+    line-height:1.6;
+    font-size:14px;
+    color:#444;
+    padding:0 10px;
+    background-color: #E6F2F4;
+}
+
+.navbar {
+    font-size: 18px;
+}
+
+.wall-item-content, .mail-conv-body, .page-body, .chat-item-text, .chat-item-text-self {
+    font-size: 1.5rem;
+}
+
+h1,h2,h3
+{
+	line-height:1.2;
+	padding: 1rem;
+}
+
+strong {
+	padding: 1rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #6D005F;
+    border-color: #6D005F;
+}
+
+.widget {
+    padding: 1rem;
+}
+
+a {
+	color: #6D005F;
+}
+
+.nav-link {
+	color: #6D005F;
+}
+
+a:hover {
+	color: #E36414;
+	text-decoration: none;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #6D005F;
+}
+
+.dropdown-item.active {
+    background-color: #6D005F;
+}
+
+.wall-item-head-new {
+    border-top: 0.2rem solid #6D005F;
+}
+
+.bg-dark {
+    background-color: #E36414 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link, .usermenu i {
+    color: #fff;
+}
+
+.fa {
+	font-size: 1.5rem;
+}
+
+#nav-app-link {
+	padding-left: 1rem !important;
+}
+
+#region_3 {
+    position: relative;
+    order: 3;
+    padding: 4.5rem 1rem 0px 1rem;
+    background-color: #E6F2F4;
+}
+
+.aside_spacer {
+	background-color: #fff;
+}
+
+.wall-item-content-wrapper {
+	background-color: #fff;
+}
+
+.wall-item-comment-wrapper {
+    background-color: #fff;
+    padding: .75rem !important;
+}
+
+.wall-item-title {
+    background-color: #6D005F !important;
+    color: #fff;
+}
+
+.generic-content-wrapper {
+    border-color: #6D005F;
+    border-radius: 0rem !important;
+}
+
+.rounded-top {
+    border-top-left-radius: 0rem !important;
+    border-top-right-radius: 0rem !important;
+}
+
+#jot-title, #jot-pagetitle, #profile-jot-text {
+    border-radius: 0rem;
+    border-top-left-radius: 0rem;
+    border-top-right-radius: 0rem;
+    border-bottom-right-radius: 0rem;
+    border-bottom-left-radius: 0rem;
+}
+
+#profile-jot-wrapper {
+    border-radius: 0rem;
+    border-top-left-radius: 0rem;
+    border-top-right-radius: 0rem;
+    border-bottom-right-radius: 0rem;
+    border-bottom-left-radius: 0rem;
+}
+
+#jot-text-wrap {
+    padding: .75rem !important;
+}
